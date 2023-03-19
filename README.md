@@ -16,7 +16,7 @@ Durante o curso foram abordados os seguintes temas:
 -
 
 
-# Screenshots
+<!--# Screenshots
  <img src="https://i.imgur.com/jAvEwm1.png"> <img src="https://i.imgur.com/J3R6HuX.png">
  <img src="https://i.imgur.com/67eE61a.png"> <img src="https://i.imgur.com/YpjqgY3.png">
 # Tech Used
